@@ -1,0 +1,5 @@
+cd dashboard
+
+npm install
+
+npm start
